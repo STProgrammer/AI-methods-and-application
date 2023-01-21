@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b3c4bdf87c1f6997fc509053f75a58d85daad32c
 # C extensions
 *.so
 
@@ -127,4 +130,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> b3c4bdf87c1f6997fc509053f75a58d85daad32c
