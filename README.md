@@ -4,4 +4,4 @@
 Folder for solutions to some exercises and examokes from "AI methods and applications" course.
 
 It contains codes about K-nn algorhtms, ant colony optimization, Q-learning, collaborative filtering, 
-text preprocessing, some dynamic programming examples.
+text preprocessing and some dynamic programming examples among other stuff.
